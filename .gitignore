@@ -1,0 +1,7 @@
+# BLACKLIST (IGNORED)
+*
+# WHITELIST (ALLOWED)
+!.gitignore
+!package.json
+!tsconfig.json
+!*.ts
